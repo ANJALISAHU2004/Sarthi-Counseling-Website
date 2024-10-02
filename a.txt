@@ -1,0 +1,4 @@
+hi this is a project.
+git remote add origin https://github.com/ANJALISAHU2004/SocratIQ__Gen-AI-Exchange-Hackathon-by-Google.git
+git branch -M main
+git push -u origin main
