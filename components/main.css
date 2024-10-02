@@ -1,0 +1,27 @@
+.box{
+  background-image: linear-gradient(135deg, #fab2ff 10%, #1904e5 100%);
+  height: 100px;
+  text-align: center;
+  border: 1px double rgb(195, 0, 255);
+  border-radius: 15px;
+ margin: 20px;
+ padding: 20px;
+}
+.box2{
+  display: flex;
+  align-items: center; 
+  justify-content: space-between;
+  border: 1px double rgb(174, 0, 255);
+  border-radius: 15px;
+ margin: 20px;
+ padding: 20px;
+}
+.arrow{
+  display: flex; 
+            align-items: center; 
+            justify-content: flex-end; 
+}
+.headings{
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  }
