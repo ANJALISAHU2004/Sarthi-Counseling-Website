@@ -7,7 +7,7 @@ const Login = () => {
         <div className="left">
           <div className="overlay">
             <h1>Welcome To</h1>
-            <h1 className="dark">Sarthi</h1>
+            <h1 className="dark">Socrat__IQ</h1>
             <p>This is where you can discover your passion path to life</p>
             <span>
               <p>Login with social media</p>
