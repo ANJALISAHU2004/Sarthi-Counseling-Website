@@ -1,10 +1,11 @@
 
-# Socrat_IQ - AI-Powered Socratic Teaching Assistant
+# Sarthi
+Counseling Website
 
 **Tagline:** Curiosity Leads to Clarity
 
 ## Project Description
-SocratiQ is a Gen AI-powered teaching assistant designed to enhance student learning using the Socratic method. By asking probing questions, SocratiQ guides students to discover answers independently, fostering critical thinking and deeper understanding. This project focuses on teaching **Mathematics**.
+Sarthi is a Gen AI-powered teaching assistant designed to enhance student learning using the Socratic method. By asking probing questions, SocratiQ guides students to discover answers independently, fostering critical thinking and deeper understanding. This project focuses on teaching **Mathematics**.
 
 ## Table of Contents
 - [Features](#features)
