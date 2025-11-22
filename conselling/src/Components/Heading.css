@@ -1,0 +1,18 @@
+.box2{
+  display: flex;
+  align-items: center; 
+  justify-content: space-between;
+  border: 2px groove rgb(0, 242, 255);
+  border-radius: 15px;
+ margin: 20px;
+ padding: 20px;
+}
+.arrow{
+  display: flex; 
+            align-items: center; 
+            justify-content: flex-end; 
+}
+.headings{
+  color: #03045e;
+  text-transform: uppercase;
+  }

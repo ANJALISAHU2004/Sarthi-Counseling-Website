@@ -1,0 +1,15 @@
+
+body{
+  background-color: aqua;
+}
+.root{
+  background-color: rgb(15, 55, 90);
+}
+.head{
+  background-color: aquamarine;
+}
+.containerbox
+{
+  margin: 50px;
+  background-color: aliceblue;;
+}

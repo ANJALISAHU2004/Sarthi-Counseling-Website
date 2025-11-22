@@ -1,0 +1,45 @@
+/* Result Skip Results Iframe
+EDIT ON */
+/* {padding: 0; margin: 0; box-sizing: border-box;} */
+/* body{height: 900px;} */
+.head{
+  padding: 2%;
+  background-color: aliceblue;
+}
+.header_1{
+
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+  text-align: center;
+  width: 100%;
+  height: auto;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  overflow: hidden;
+  border-radius: 0 0 85% 85% / 30%;
+ 
+}
+.over{
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+  width: 100%;
+  height: 100%;
+  padding: 40px;
+  color: #FFF;
+  text-shadow: 1px 1px 1px #333;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+  background-size: cover;
+  
+}
+
+h1 {
+  font-family: 'Source Sans 3',"Kanit";
+  font-size: 800px;
+  margin-bottom: 30px;
+}
+
+h3, p {
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 30px;
+}
+
